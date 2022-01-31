@@ -11,20 +11,38 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Dummy Cash Management Software',
+        projectDesc: 'This project aims to build an cash management system that consolidates all information of a bank',
+        tags: ['Java', 'CSS', 'Html','JDBC','SQL'],
+        //code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        //demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: one
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
+        projectName: 'Choice Hotels',
         projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        tags: ['Git','Jenkins','AWS','Puppet','Docker','Linux','Python'],
+        //code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        //demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        image: two
+    },
+    {
+        id: 3,
+        projectName: 'Xerox',
+        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
+        tags: ['Git','Jenkins','AWS','Puppet','Docker','Linux','Python'],
+        //code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        //demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        image: two
+    },
+    {
+        id: 4,
+        projectName: 'MEW',
+        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
+        tags: ['Git','Jenkins','AWS','Puppet','Docker','Linux','Python'],
+        //code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        //demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: two
     },
     {
