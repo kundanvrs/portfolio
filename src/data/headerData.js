@@ -3,7 +3,7 @@ import resume from '../assets/pdf/resume.pdf'
 export const headerData = {
     name: 'Kundan Kumar',
     title: "Python Developer | DevOps Engineer",
-    desciption:" a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
+    desciption:" Seeking a challenging position in an organization where I can use my talents and skills to grow and expand an organization as well as myself. ",
     image: 'https://github.com/kundanvrs/raw-data/releases/download/test/kkImageProfile.jpg',
     resumePdf: resume
 }

@@ -201,7 +201,7 @@ yarn start
 │   │   ├── About
 │   │   │   ├── About.css
 │   │   │   └── About.js
-│   │   ├── Achievements
+│   │   ├── 
 │   │   │   ├── Achievements.css
 │   │   │   └── Achievements.js
 │   │   │   └── AchievementCard.js
